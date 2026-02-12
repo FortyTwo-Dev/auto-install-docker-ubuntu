@@ -1,7 +1,3 @@
-### 2. **install_docker.sh**
-Voici un exemple de script Bash qui reprend tes commandes et ajoute quelques vérifications pour plus de robustesse :
-
-```bash
 #!/bin/bash
 
 # Vérifie que le script est exécuté en tant que root
